@@ -6,10 +6,10 @@ char* password1 = "pwd";
 
 
 int main() {
-int userpasswordmatch = 0;
-int admin = 0;
-char username[8] = {0};
-char password[8] = {0};
+  int userpasswordmatch = 0;
+  int admin = 0;
+  char username[8] = {0};
+  char password[8] = {0};
 
   printf("Username: ");
   gets(username);
