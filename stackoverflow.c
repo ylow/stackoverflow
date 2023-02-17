@@ -26,6 +26,6 @@ int main() {
   if (admin || userpasswordmatch) {
     printf("Pass!\n");
   } else {
-    printf("Pass!\n");
+    printf("Fail!\n");
   }
 }
